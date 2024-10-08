@@ -3,13 +3,20 @@
 </script>
 
 <h1>buku.kresna.me</h1>
-<p>These are my books collection. Half of them I have read and others not yet. How about you?</p>
+<p>These are my books collection. So far I have {data.books.length} books. Half of them I have read and others not yet. How about you?</p>
 
 <div class="books-grid">
     {#each data.books as book}
-        <div class="p-4" style="display: flex; flex-direction: column; background-color: lightgray; align-items: center;">
-            <h2 style="text-align: center;"><a href={`books/${book.slug}`}>{book.title}</a></h2>
-            <img src="/books/img/{book.image}" alt="{book.title} cover book" />
+        <div class="p-4" style="display: flex; flex-direction: column; background-color: lightgray; align-items: center; border-radius: 1rem;">
+            {#if book.image}
+            <img style="margin-top: 1rem;" src="/books/img/{book.image}" alt="{book.title} cover book" />
+            {:else}
+            <div class="book-cover-thumbnail"></div>
+            {/if}
+            <div>
+                <h2 style="text-align: center; font-size: 1.25rem; line-height: normal;"><a style="text-decoration: none; color: black;" href={`books/${book.slug}`}>{book.title}</a></h2>
+                <p style="color: blue;">{book.author}</p>
+            </div>
         </div>
     {/each}
 </div>
@@ -20,7 +27,7 @@
         gap: 1rem;
     }
 
-    @media screen and (min-width: 480px) {
+    @media screen and (min-width: 640px) {
         .books-grid {
             grid-template-columns: repeat(2, 1fr);
         }
@@ -32,11 +39,24 @@
         }
     }
 
+    @media screen and (min-width: 1280px) {
+        .books-grid {
+            grid-template-columns: repeat(4, 1fr);
+        }
+    }
+
     img {
         width: 240px;
         max-width: 240px;
         height: 360px;
         max-height: 360px;
         object-fit: cover;
+    }
+
+    .book-cover-thumbnail {
+        width: 240px;
+        max-width: 240px;
+        height: 360px;
+        background-color: blanchedalmond;
     }
 </style>
