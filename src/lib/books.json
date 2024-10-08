@@ -1,0 +1,44 @@
+[
+ {
+  "title": "Happy Wednesday",
+  "slug": "happy-wednesday",
+  "image": "happy-wednesday.jpg",
+  "author": "Azrul Ananda",
+  "reviewHtml": "<h3>English</h3>\n<p>This is my review in english.</p>\n<p>Is that bad, huh</p>\n<h3>Bahasa Indonesia</h3>\n<p>This is my review in Bahasa Indonesia.</p>\n<p>Is that good? Huh?</p>\n"
+ },
+ {
+  "title": "Mindset",
+  "slug": "mindset",
+  "image": "mindset.jpg",
+  "author": "Carol S. Dweck, Ph.D",
+  "reviewHtml": "<p>this is abc.<br>\nmay the god bless you!</p>\n<p>Will I get recognized?</p>\n"
+ },
+ {
+  "title": "Problem Solving 101",
+  "slug": "problem-solving-101",
+  "image": "problem-solving-101.jpg",
+  "author": "Ken Watanabe",
+  "reviewHtml": "<p>this is abc.</p>\n"
+ },
+ {
+  "title": "Sapiens - Kelahiran Umat Manusia",
+  "slug": "sapiens-kelahiran-umat-manusia",
+  "image": "sapiens-kelahiran-umat-manusia.jpeg",
+  "author": "Yuval Noah Harari",
+  "reviewHtml": "<p>this is abc.</p>\n"
+ },
+ {
+  "title": "Sapiens - Pilar-pilar Peradaban",
+  "slug": "sapiens-pilar-pilar-peradaban",
+  "image": "sapiens-pilar-pilar-peradaban.jpg",
+  "author": "Yuval Noah Harari",
+  "reviewHtml": "<p>this is abc.</p>\n"
+ },
+ {
+  "title": "Sudah Kau Urus Uangmu, Nak?",
+  "slug": "sudah-kau-urus-uangmu-nak",
+  "image": "sudah-kau-urus-uangmu-nak.jpg",
+  "author": "Park So Yeon",
+  "reviewHtml": "<p>this is abc.</p>\n"
+ }
+]

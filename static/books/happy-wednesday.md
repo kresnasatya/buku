@@ -8,7 +8,7 @@ image: happy-wednesday.jpg
 
 This is my review in english.
 
-Is that bad, huh?
+Is that bad, huh
 
 ### Bahasa Indonesia
 
