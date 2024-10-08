@@ -9,7 +9,17 @@
     {#each data.books as book}
         <div class="p-4" style="display: flex; flex-direction: column; background-color: lightgray; align-items: center;">
             <h2 style="text-align: center;"><a href={`books/${book.slug}`}>{book.title}</a></h2>
-            <img width="240" src="/books/img/{book.image}" alt="{book.title} cover book" />
+            <img src="/books/img/{book.image}" alt="{book.title} cover book" />
         </div>
     {/each}
 </div>
+
+<style>
+    img {
+        width: 240px;
+        max-width: 240px;
+        height: 360px;
+        max-height: 360px;
+        object-fit: cover;
+    }
+</style>
