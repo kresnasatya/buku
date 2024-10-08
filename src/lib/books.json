@@ -1,10 +1,52 @@
 [
  {
+  "title": "Andy Noya Kisah Hidupku",
+  "slug": "andy-noya-kisah-hidupku",
+  "image": "andy-noya-kisah-hidupku.jpg",
+  "author": "Andy Noya & Robert Adhi KSP",
+  "reviewHtml": ""
+ },
+ {
+  "title": "Brief Answers To The Big Questions",
+  "slug": "brief-answer-to-the-big-questions",
+  "image": "brief-answers-to-the-big-questions.jpg",
+  "author": "Stephen Hawking",
+  "reviewHtml": ""
+ },
+ {
+  "title": "Detik-detik Yang Menentukan",
+  "slug": "detik-detik-yang-menentukan",
+  "image": "detik-detik-yang-menentukan.jpg",
+  "author": "BJ. Habibie",
+  "reviewHtml": ""
+ },
+ {
+  "title": "Goodbye Things",
+  "slug": "goodbye-things",
+  "image": "goodbye-things.jpeg",
+  "author": "Fumio Sasaki",
+  "reviewHtml": ""
+ },
+ {
   "title": "Happy Wednesday",
   "slug": "happy-wednesday",
   "image": "happy-wednesday.jpg",
   "author": "Azrul Ananda",
   "reviewHtml": "<h3>English</h3>\n<p>This is my review in english.</p>\n<p>Is that bad, huh</p>\n<h3>Bahasa Indonesia</h3>\n<p>This is my review in Bahasa Indonesia.</p>\n<p>Is that good? Huh?</p>\n"
+ },
+ {
+  "title": "Kebijakan Ahok",
+  "slug": "kebijakan-ahok",
+  "image": "kebijakan-ahok.webp",
+  "author": "Basuki Tjahaja Purnama",
+  "reviewHtml": ""
+ },
+ {
+  "title": "Manusia Indonesia",
+  "slug": "manusia-indonesia",
+  "image": "manusia-indonesia.jpg",
+  "author": "Mochtar Lubis",
+  "reviewHtml": ""
  },
  {
   "title": "Mindset",
@@ -14,11 +56,46 @@
   "reviewHtml": "<p>this is abc.<br>\nmay the god bless you!</p>\n<p>Will I get recognized?</p>\n"
  },
  {
+  "title": "Nak, Belajarlah Soal Uang",
+  "slug": "nak-belajarlah-soal-uang",
+  "image": "nak-belajarlah-soal-uang.jpeg",
+  "author": "Jeong Seon Yong",
+  "reviewHtml": ""
+ },
+ {
+  "title": "Obat Dungu Resep Akal Sehat",
+  "slug": "obat-dungu-resep-akal-sehat",
+  "image": "obat-dungu-resep-akal-sehat.jpeg",
+  "author": "Rocky Gerung & Robertus Robert",
+  "reviewHtml": ""
+ },
+ {
   "title": "Problem Solving 101",
   "slug": "problem-solving-101",
   "image": "problem-solving-101.jpg",
   "author": "Ken Watanabe",
   "reviewHtml": "<p>this is abc.</p>\n"
+ },
+ {
+  "title": "Quit",
+  "slug": "quit",
+  "image": "quit.jpg",
+  "author": "Annie Duke",
+  "reviewHtml": ""
+ },
+ {
+  "title": "Rahasia Dibalik Layar Kick Andy",
+  "slug": "rahasia-dibalik-layar-kick-andy",
+  "image": "rahasia-dibalik-layar-kick-andy.webp",
+  "author": "Agus Pramono",
+  "reviewHtml": ""
+ },
+ {
+  "title": "Reformasi Adat dan Bangun Karakter",
+  "slug": "reformasi-adat-dan-bangun-karakter",
+  "image": "reformasi-adat-dan-bangun-karakter.jpg",
+  "author": "Ngakan Putu Putra",
+  "reviewHtml": ""
  },
  {
   "title": "Sapiens - Kelahiran Umat Manusia",
@@ -35,10 +112,73 @@
   "reviewHtml": "<p>this is abc.</p>\n"
  },
  {
+  "title": "Scrum",
+  "slug": "scrum",
+  "image": "scrum.jpg",
+  "author": "Jeff Sutherland",
+  "reviewHtml": ""
+ },
+ {
+  "title": "Si Cacing dan Kotoran Kesayangannya 2!",
+  "slug": "si-cacing-kotoran-kesayangannya-2",
+  "image": "si-cacing-kotoran-kesayangannya-2.jpg",
+  "author": "Ajahn Brahmn",
+  "reviewHtml": ""
+ },
+ {
+  "title": "Si Cacing dan Kotoran Kesayangannya 3!",
+  "slug": "si-cacing-kotoran-kesayangannya-3",
+  "image": "si-cacing-kotoran-kesayangannya-3.jpg",
+  "author": "Ajahn Brahmn",
+  "reviewHtml": ""
+ },
+ {
+  "title": "Si Cacing dan Kotoran Kesayangannya",
+  "slug": "si-cacing-kotoran-kesayangannya",
+  "image": "si-cacing-kotoran-kesayangannya.jpg",
+  "author": "Ajahn Brahmn",
+  "reviewHtml": ""
+ },
+ {
   "title": "Sudah Kau Urus Uangmu, Nak?",
   "slug": "sudah-kau-urus-uangmu-nak",
   "image": "sudah-kau-urus-uangmu-nak.jpg",
   "author": "Park So Yeon",
   "reviewHtml": "<p>this is abc.</p>\n"
+ },
+ {
+  "title": "The Art of Solitude",
+  "slug": "the-art-of-solitude",
+  "image": "the-art-of-solitude.jpg",
+  "author": "Desi Anwar",
+  "reviewHtml": ""
+ },
+ {
+  "title": "The Effective Engineer",
+  "slug": "the-effective-engineer",
+  "image": "the-effective-engineer.jpg",
+  "author": "Edmond Lau",
+  "reviewHtml": ""
+ },
+ {
+  "title": "The Power of Habit",
+  "slug": "the-power-of-habit",
+  "image": "the-power-of-habit.jpg",
+  "author": "Charless Duhigg",
+  "reviewHtml": ""
+ },
+ {
+  "title": "The Tipping Point",
+  "slug": "the-tipping-point",
+  "image": "the-tipping-point.jpg",
+  "author": "Malcolm Gladwell",
+  "reviewHtml": ""
+ },
+ {
+  "title": "Xenoglosofilia",
+  "slug": "xenoglosofilia",
+  "image": "xenoglosofilia.jpg",
+  "author": "Ivan Lanin",
+  "reviewHtml": ""
  }
 ]
