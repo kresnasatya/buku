@@ -7,6 +7,13 @@
   "reviewHtml": ""
  },
  {
+  "title": "Apa yang Kita Pikirkan Ketika Kita Sendirian",
+  "slug": "apa-yang-kita-pikirkan-ketika-kita-sendirian",
+  "image": "apa-yang-kita-pikirkan-ketika-kita-sendirian.jpg",
+  "author": "Desi Anwar",
+  "reviewHtml": ""
+ },
+ {
   "title": "Brief Answers To The Big Questions",
   "slug": "brief-answer-to-the-big-questions",
   "image": "brief-answers-to-the-big-questions.jpg",
@@ -145,13 +152,6 @@
   "image": "sudah-kau-urus-uangmu-nak.jpg",
   "author": "Park So Yeon",
   "reviewHtml": "<p>this is abc.</p>\n"
- },
- {
-  "title": "The Art of Solitude",
-  "slug": "the-art-of-solitude",
-  "image": "the-art-of-solitude.jpg",
-  "author": "Desi Anwar",
-  "reviewHtml": ""
  },
  {
   "title": "The Effective Engineer",
