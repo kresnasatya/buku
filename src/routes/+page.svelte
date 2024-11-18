@@ -7,15 +7,15 @@
 
 <div class="books-grid">
     {#each data.books as book}
-        <div class="p-4" style="display: flex; flex-direction: column; background-color: lightgray; align-items: center; border-radius: 1rem;">
+        <div class="p-4" style="display: flex; flex-direction: column; align-items: center; border: 1px solid lightgray; border-radius: 1rem;">
             {#if book.image}
             <img style="margin-top: 1rem;" src="/books/img/{book.image}" alt="{book.title} cover book" />
             {:else}
             <div class="book-cover-thumbnail"></div>
             {/if}
             <div>
-                <h2 style="text-align: center; font-size: 1.25rem; line-height: normal;"><a style="text-decoration: none; color: black;" href={`books/${book.slug}`}>{book.title}</a></h2>
-                <p style="color: blue;">{book.author}</p>
+                <h2 style="text-align: center; font-size: 1.25rem; line-height: normal;"><a style="color: blue;" href={`books/${book.slug}`}>{book.title}</a></h2>
+                <p>{book.author}</p>
             </div>
         </div>
     {/each}
