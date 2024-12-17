@@ -3,10 +3,21 @@
     let book = $derived(data.book);
 </script>
 
+<svelte:head>
+    <title>{book.title} - buku.kresna.me</title>
+    <meta name="description" content="Kresna's books collection. Some has read and some not yet.">
+    <meta name="og:type" content="website">
+    <meta name="og:title" content="buku.kresna.me">
+    <meta name="og:description" content="Kresna's books collection. Some has read and some not yet.">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="buku.kresna.me">
+    <meta name="twitter:description" content="Kresna's books collection. Some has read and some not yet.">
+</svelte:head>
+
 <a href="/">Back</a>
 
 <div style="display: flex; justify-content: space-around;">
-    <img style="align-self: flex-start;" src="/books/img/{book.image}" alt="{data.title} book cover">
+    <img style="align-self: flex-start;" src="/books/img/{book.image}" alt="{book.title} book cover">
 
     <div>
         <h1>{book.title}</h1>

@@ -2,6 +2,17 @@
     let { data } = $props();
 </script>
 
+<svelte:head>
+    <title>buku.kresna.me</title>
+    <meta name="description" content="Kresna's books collection. Some has read and some not yet.">
+    <meta name="og:type" content="website">
+    <meta name="og:title" content="buku.kresna.me">
+    <meta name="og:description" content="Kresna's books collection. Some has read and some not yet.">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="buku.kresna.me">
+    <meta name="twitter:description" content="Kresna's books collection. Some has read and some not yet.">
+</svelte:head>
+
 <h1>buku.kresna.me</h1>
 <p>These are my books collection. So far I have {data.books.length} books. Half of them I have read and others not yet. How about you?</p>
 
