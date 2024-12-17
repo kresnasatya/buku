@@ -1,6 +1,6 @@
 <script>
-    export let data;
-    let book = data.book;
+    let { data } = $props();
+    let book = $derived(data.book);
 </script>
 
 <a href="/">Back</a>
