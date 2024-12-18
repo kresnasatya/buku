@@ -11,7 +11,7 @@ import matter from 'gray-matter';
     for (const mdFile of mdFiles) {
         const rawContent = await fs.readFile(path.join(process.cwd(), 'static/books', mdFile), 'utf8');
         const { content: body, data: attributes } = matter(rawContent);
-        const { title, image, author } = attributes;
+        const { title, description = '', image, author } = attributes;
         const slug = mdFile.split('.md')[0];
         
         const md = markdownit({
@@ -19,7 +19,7 @@ import matter from 'gray-matter';
         });
         const reviewHtml = md.render(body);
 
-        output.push({ title, slug, image, author, reviewHtml });
+        output.push({ title, description, slug, image, author, reviewHtml });
     }
 
     fs.writeFile(path.join(process.cwd(), 'src/lib/books.json'), JSON.stringify(output, null, " "), null);

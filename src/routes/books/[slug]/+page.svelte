@@ -5,13 +5,13 @@
 
 <svelte:head>
     <title>{book.title} - buku.kresna.me</title>
-    <meta name="description" content="Kresna's books collection. Some has read and some not yet.">
+    <meta name="description" content="{book.description != '' ? book.description : "Kresna's books collection. Some has read and some not yet."}">
     <meta name="og:type" content="website">
-    <meta name="og:title" content="buku.kresna.me">
-    <meta name="og:description" content="Kresna's books collection. Some has read and some not yet.">
+    <meta name="og:title" content="{book.title} - buku.kresna.me">
+    <meta name="description" content="{book.description != '' ? book.description : "Kresna's books collection. Some has read and some not yet."}">
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:title" content="buku.kresna.me">
-    <meta name="twitter:description" content="Kresna's books collection. Some has read and some not yet.">
+    <meta name="og:title" content="{book.title} - buku.kresna.me">
+    <meta name="description" content="{book.description != '' ? book.description : "Kresna's books collection. Some has read and some not yet."}">
 </svelte:head>
 
 <a href="/">Back</a>

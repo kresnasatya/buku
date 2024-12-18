@@ -1,6 +1,7 @@
 [
  {
   "title": "Andy Noya Kisah Hidupku",
+  "description": "",
   "slug": "andy-noya-kisah-hidupku",
   "image": "andy-noya-kisah-hidupku.jpg",
   "author": "Andy Noya & Robert Adhi KSP",
@@ -8,6 +9,7 @@
  },
  {
   "title": "Apa yang Kita Pikirkan Ketika Kita Sendirian",
+  "description": "",
   "slug": "apa-yang-kita-pikirkan-ketika-kita-sendirian",
   "image": "apa-yang-kita-pikirkan-ketika-kita-sendirian.jpg",
   "author": "Desi Anwar",
@@ -15,6 +17,7 @@
  },
  {
   "title": "Brief Answers To The Big Questions",
+  "description": "",
   "slug": "brief-answer-to-the-big-questions",
   "image": "brief-answers-to-the-big-questions.jpg",
   "author": "Stephen Hawking",
@@ -22,6 +25,7 @@
  },
  {
   "title": "Detik-detik Yang Menentukan",
+  "description": "",
   "slug": "detik-detik-yang-menentukan",
   "image": "detik-detik-yang-menentukan.jpg",
   "author": "BJ. Habibie",
@@ -29,6 +33,7 @@
  },
  {
   "title": "Goodbye Things",
+  "description": "",
   "slug": "goodbye-things",
   "image": "goodbye-things.jpeg",
   "author": "Fumio Sasaki",
@@ -36,13 +41,15 @@
  },
  {
   "title": "Happy Wednesday",
+  "description": "My review on Happy Wednesday book. It has great stories to make your Wednesday meaningful.",
   "slug": "happy-wednesday",
   "image": "happy-wednesday.jpg",
   "author": "Azrul Ananda",
-  "reviewHtml": "<h3>English</h3>\n<p>This is my review in english.</p>\n<p>Is that bad, huh</p>\n<h3>Bahasa Indonesia</h3>\n<p>This is my review in Bahasa Indonesia.</p>\n<p>Is that good? Huh?</p>\n"
+  "reviewHtml": "<h3>English</h3>\n<p>I know this book because my family was subscribe the Jawa Pos newspaper (hard paper) when I was in college. Each Wednesday, there's a column called &quot;Happy Wednesday&quot; writen by Azrul Ananda, son of Dahlan Iskan. Azrul is a journalist senior who have hobby cyclist and one of founder of DBL (Deteksi Basket League) which is popular until this day. There's a post in &quot;Happy Wednesday&quot; column which triggers me to buy this book and I don't regret it. The essence of the post is Indonesian people too busy on decoration or carving when create a chair rather than functionality. This manner is different with western people which focus on the functionality first then decoration or carving. That's Azrul's story get from his foster father, John R. Mohn.</p>\n<blockquote>\n<p><em>How come Azrul get a foster father?</em> <s>Find it by yourself 😜</s> The answer lies on Happy Wednesday's book.</p>\n</blockquote>\n<p>There are lot of Azrul's story here from how come he can study abroad with tight budget, the influence of gadget and social media in daily life, and a view that humans are racist by default. Then, there are two chapter that still hang in my mind until this day when I see this book: &quot;Wu Wei Philosophy&quot; and &quot;Ayrton Senna, God, and Common Sense&quot;. Ayrton Senna, a legendary car racer died around 30 years old has succesfully broken the human limits and implement the Wu Wei principle: do without doing.</p>\n<p>My family no longer subscribe the Jawa Pos newspaper. If I want to read the Azrul's writing then I can visit the <a href=\"https://www.happywednesday.id\">Happy Wednesday's site</a>.</p>\n<h3>Bahasa Indonesia</h3>\n<p>Saya tahu buku Happy Wednesday karena keluarga saya berlangganan koran fisik Jawa Pos saat saya masih kuliah. Setiap hari Rabu akan ada kolom bernama &quot;Happy Wednesday&quot; yang diisi oleh Azrul Ananda, anak dari Dahlan Iskan. Azrul ini adalah seorang jurnalis senior yang hobi bersepeda dan salah satu pencetus dari DBL (Deteksi Basket League) yang tenar hingga sekarang. Ada satu tulisan dari kolom &quot;Happy Wednesday&quot; yang menjadi pemicu saya untuk membeli buku ini dan saya tidak menyesalinya. Inti dari tulisan adalah orang Indonesia kalau membuat kursi terlalu sibuk dengan hiasan atau ukiran daripada fungsionalitas dari sebuah kursi itu sendiri. Sikap ini berbeda dengan orang-orang barat yang mana fungsionalitas diutamakan terlebih dahulu. Begitulah cerita yang Azrul peroleh dari ayah angkatnya, John R. Mohn.</p>\n<blockquote>\n<p><em>Bagaimana bisa Azrul memperoleh ayah angkat?</em> <s>Cari sendiri 😜</s> Jawabannya ada di buku Happy Wednesday.</p>\n</blockquote>\n<p>Banyak hal yang diceritakan oleh Azrul lewat buku ini mulai dari kisah ia bisa kuliah di luar negeri dengan biaya pas-pasan, pengaruh gadget dan media sosial di kehidupan sehari-hari, sebuah pandangan bahwa semua manusia di Bumi ini rasis. Lalu, ada dua bab yang nyantol di kepala saya sampai sekarang ketika membaca buku ini yaitu &quot;Filosofi Wu Wei&quot; dan &quot;Ayrton Senna, Tuhan, dan Common Sense&quot;. Ayrton Senna, seorang pembalap mobil legendaris yang meninggal di usia muda sekitar 30 tahunan telah berhasil menembus batas manusia dan telah menerapkan prinsip Wu Wei: melakukan tanpa melakukan.</p>\n<p>Keluarga saya sudah tidak berlangganan koran Jawa Pos. Jika saya ingin membaca tulisan Azrul Ananda maka saya akan baca di <a href=\"https://www.happywednesday.id\">situs Happy Wednesday</a>.</p>\n"
  },
  {
   "title": "Kebijakan Ahok",
+  "description": "",
   "slug": "kebijakan-ahok",
   "image": "kebijakan-ahok.webp",
   "author": "Basuki Tjahaja Purnama",
@@ -50,6 +57,7 @@
  },
  {
   "title": "Manusia Indonesia",
+  "description": "",
   "slug": "manusia-indonesia",
   "image": "manusia-indonesia.jpg",
   "author": "Mochtar Lubis",
@@ -57,6 +65,7 @@
  },
  {
   "title": "Mindset",
+  "description": "",
   "slug": "mindset",
   "image": "mindset.jpg",
   "author": "Carol S. Dweck, Ph.D",
@@ -64,6 +73,7 @@
  },
  {
   "title": "Nak, Belajarlah Soal Uang",
+  "description": "",
   "slug": "nak-belajarlah-soal-uang",
   "image": "nak-belajarlah-soal-uang.jpeg",
   "author": "Jeong Seon Yong",
@@ -71,6 +81,7 @@
  },
  {
   "title": "Obat Dungu Resep Akal Sehat",
+  "description": "",
   "slug": "obat-dungu-resep-akal-sehat",
   "image": "obat-dungu-resep-akal-sehat.jpeg",
   "author": "Rocky Gerung & Robertus Robert",
@@ -78,6 +89,7 @@
  },
  {
   "title": "Problem Solving 101",
+  "description": "",
   "slug": "problem-solving-101",
   "image": "problem-solving-101.jpg",
   "author": "Ken Watanabe",
@@ -85,6 +97,7 @@
  },
  {
   "title": "Quit",
+  "description": "",
   "slug": "quit",
   "image": "quit.jpg",
   "author": "Annie Duke",
@@ -92,6 +105,7 @@
  },
  {
   "title": "Rahasia Dibalik Layar Kick Andy",
+  "description": "",
   "slug": "rahasia-dibalik-layar-kick-andy",
   "image": "rahasia-dibalik-layar-kick-andy.webp",
   "author": "Agus Pramono",
@@ -99,6 +113,7 @@
  },
  {
   "title": "Reformasi Adat dan Bangun Karakter",
+  "description": "",
   "slug": "reformasi-adat-dan-bangun-karakter",
   "image": "reformasi-adat-dan-bangun-karakter.jpg",
   "author": "Ngakan Putu Putra",
@@ -106,6 +121,7 @@
  },
  {
   "title": "Sapiens - Kelahiran Umat Manusia",
+  "description": "",
   "slug": "sapiens-kelahiran-umat-manusia",
   "image": "sapiens-kelahiran-umat-manusia.jpeg",
   "author": "Yuval Noah Harari",
@@ -113,6 +129,7 @@
  },
  {
   "title": "Sapiens - Pilar-pilar Peradaban",
+  "description": "",
   "slug": "sapiens-pilar-pilar-peradaban",
   "image": "sapiens-pilar-pilar-peradaban.jpg",
   "author": "Yuval Noah Harari",
@@ -120,6 +137,7 @@
  },
  {
   "title": "Scrum",
+  "description": "",
   "slug": "scrum",
   "image": "scrum.jpg",
   "author": "Jeff Sutherland",
@@ -127,6 +145,7 @@
  },
  {
   "title": "Si Cacing dan Kotoran Kesayangannya 2!",
+  "description": "",
   "slug": "si-cacing-kotoran-kesayangannya-2",
   "image": "si-cacing-kotoran-kesayangannya-2.jpg",
   "author": "Ajahn Brahmn",
@@ -134,6 +153,7 @@
  },
  {
   "title": "Si Cacing dan Kotoran Kesayangannya 3!",
+  "description": "",
   "slug": "si-cacing-kotoran-kesayangannya-3",
   "image": "si-cacing-kotoran-kesayangannya-3.jpg",
   "author": "Ajahn Brahmn",
@@ -141,6 +161,7 @@
  },
  {
   "title": "Si Cacing dan Kotoran Kesayangannya",
+  "description": "",
   "slug": "si-cacing-kotoran-kesayangannya",
   "image": "si-cacing-kotoran-kesayangannya.jpg",
   "author": "Ajahn Brahmn",
@@ -148,6 +169,7 @@
  },
  {
   "title": "Sudah Kau Urus Uangmu, Nak?",
+  "description": "",
   "slug": "sudah-kau-urus-uangmu-nak",
   "image": "sudah-kau-urus-uangmu-nak.jpg",
   "author": "Park So Yeon",
@@ -155,6 +177,7 @@
  },
  {
   "title": "The Effective Engineer",
+  "description": "",
   "slug": "the-effective-engineer",
   "image": "the-effective-engineer.jpg",
   "author": "Edmond Lau",
@@ -162,6 +185,7 @@
  },
  {
   "title": "The Power of Habit",
+  "description": "",
   "slug": "the-power-of-habit",
   "image": "the-power-of-habit.jpg",
   "author": "Charless Duhigg",
@@ -169,6 +193,7 @@
  },
  {
   "title": "The Tipping Point",
+  "description": "",
   "slug": "the-tipping-point",
   "image": "the-tipping-point.jpg",
   "author": "Malcolm Gladwell",
@@ -176,6 +201,7 @@
  },
  {
   "title": "Xenoglosofilia",
+  "description": "",
   "slug": "xenoglosofilia",
   "image": "xenoglosofilia.jpg",
   "author": "Ivan Lanin",
