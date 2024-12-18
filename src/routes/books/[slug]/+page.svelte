@@ -9,11 +9,11 @@
     <meta name="og:type" content="website">
     <meta name="og:title" content="{book.title} - buku.kresna.me">
     <meta name="og:description" content="{book.description != '' ? book.description : "Kresna's books collection. Some has read and some not yet."}">
-    <meta name="og:image" content="https://book.kresna.me/books/img/{book.image}">
+    <meta name="og:image" content="https://buku.kresna.me/books/img/{book.image}">
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="{book.title} - buku.kresna.me">
     <meta name="twitter:description" content="{book.description != '' ? book.description : "Kresna's books collection. Some has read and some not yet."}">
-    <meta name="twitter:image" content="https://book.kresna.me/books/img/{book.image}">
+    <meta name="twitter:image" content="https://buku.kresna.me/books/img/{book.image}">
 </svelte:head>
 
 <a href="/">Back</a>
