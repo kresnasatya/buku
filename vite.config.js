@@ -13,7 +13,6 @@ export default defineConfig({
 						console.error(`Error execute command: ${error}`);
 						return;
 					}
-					console.log(`Command output: ${stdout}`);
 					if (stderr) {
 						console.error(`Command errors: ${stdout}`);
 					}
