@@ -1,5 +1,13 @@
 ---
 title: Si Cacing dan Kotoran Kesayangannya
-author: Ajahn Brahmn
+author: Ajahn Brahm
 image: si-cacing-kotoran-kesayangannya.jpg
 ---
+
+### Bahasa Indonesia
+
+Saya mendapatkan dua seri buku Si Cacing dan Kotoran Kesayangannya sebagai hadiah ulang tahun saat masa SMA dari kedua teman saya, Prash dan Sumerta. Saya senang membaca buku dengan tema pengembangan diri atau perenungan diri. Saat ini, buku yang saya pegang adalah buku replika karena buku yang asli sudah rusak parah. Replika ini sebagai pengingat bahwa saya diberi hadiah dari kedua teman baik saya. Buku yang ditulis oleh Ajahn Brahm, seorang biksu yang dulunya lulusan Sarjana Fisika. Buku ini berisi 108 bab yang pembahasannya ringan dan mudah dicerna. Ada satu bab yang masih saya ingat yaitu "Tiga Pertanyaan Kaisar". Kaisar sedang mencari falsafah hidup dan menanyakan tiga pertanyaan: "Kapankah waktu yang paling penting?", "Siapakah orang yang paling penting?", dan "Apa hal yang paling penting untuk dilakukan?". Berkat tiga pertanyaan ini, kaisar selamat dari ancaman yang berusaha untuk membunuhnya. Baiklah, mari saya bocorkan jawaban dari tiga pertanyaan tersebut. Jawaban pertanyaan pertama adalah "saat ini, masa ini". Jawaban pertanyaan kedua adalah "orang yang sedang bersama kita, entah itu orang lain ataupun diri kita sendiri". Jawaban ketiga adalah "peduli. Salah satu bentuk dari rasa peduli adalah memperhatikan dan mendengarkan.".
+
+### English
+
+I get these two book series as a my birthday gift from my good friend, Prash and Sumerta. I like read book with self-improvement and reflection topics. Today, the book I hold is a replica instead of original because the original book has been broken. This replica is a reminder for myself that these books are gift from my good friends. This book contains 108 chapters with light and easy to understand. There's a one chapter that I remember, that is: "Three Emperor's Questions". The emperor was looking for a philosophy of life and ask three questions: "When is the most important time?", "Who's the most important person?", "What's the most important thing to do?". Thanks to these questions, the emperor survived from threat that attempted to kill him. Ok, let me spoil the answers from those questions. The first answer is "Today, at this moment".Second answer is "People who with us, either stranger or ourself". Third question is "Care. One form of caring is paying attention and listening.".
