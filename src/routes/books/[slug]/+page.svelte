@@ -1,6 +1,16 @@
 <script>
+    import { page } from '$app/state';
+    import books from '$lib/books.json';
+
     let { data } = $props();
-    let book = $derived(data.book);
+    
+    const book = $derived(data.book);
+
+    const currentSlug = $derived(page.params.slug);
+    const currentIndex = $derived(books.findIndex(book => book.slug === currentSlug));
+    const prevBook = $derived(currentIndex > 0 ? books[currentIndex - 1] : null);
+    const nextBook = $derived(currentIndex < books.length - 1 ? books[currentIndex + 1] : null);
+
 </script>
 
 <svelte:head>
@@ -30,6 +40,30 @@
 <h2>Review</h2>
 {@html book.reviewHtml}
 
+<div class="prev-next">
+    {#if prevBook}
+        <div class="pager">
+            <a href="/books/{prevBook.slug}" style="text-decoration: none;">
+                <span style="display: block; font-size: small; color: dimgray;">Previous</span>
+                <span style="display: block; color: black;">{prevBook.title}</span>
+            </a>
+        </div>
+    {:else}
+        <div>&nbsp;</div>
+    {/if}
+
+    {#if nextBook}
+        <div class="pager">
+            <a href="/books/{nextBook.slug}" style="text-decoration: none;">
+                <span style="display: block; font-size: small; color: dimgray;">Previous</span>
+                <span style="display: block; color: black;">{nextBook.title}</span>
+            </a>
+        </div>
+    {:else}
+        <div>&nbsp;</div>
+    {/if}
+</div>
+
 <style>
     img {
         width: 240px;
@@ -38,4 +72,22 @@
         max-height: 360px;
         object-fit: cover;
     }
+
+    .prev-next {
+		margin-top: 1rem;
+		display: grid;
+		gap: 16px;
+	}
+
+	@media screen and (min-width: 1280px) {
+		.prev-next {
+			grid-template-columns: repeat(2, 1fr);
+		}
+	}
+
+	.pager {
+		border: 1px solid gainsboro;
+		border-radius: 0.25rem;
+		padding: 1rem;
+	}
 </style>
