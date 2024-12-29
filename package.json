@@ -23,6 +23,8 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"@fontsource/dm-serif-display": "^5.1.0",
+		"@fontsource/eb-garamond": "^5.1.1",
 		"gray-matter": "^4.0.3",
 		"markdown-it": "^14.1.0"
 	}

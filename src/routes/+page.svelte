@@ -13,7 +13,7 @@
     <meta name="twitter:description" content="Kresna's books collection. Some has read and some not yet.">
 </svelte:head>
 
-<h1>buku.kresna.me</h1>
+<h1 style="font-family: 'DM Serif Display', serif;">buku.kresna.me</h1>
 <p>These are my books collection. So far I have {data.books.length} books. Half of them I have read and others not yet. How about you?</p>
 
 <div class="books-grid">
@@ -25,7 +25,7 @@
             <div class="book-cover-thumbnail"></div>
             {/if}
             <div>
-                <h2 style="text-align: center; font-size: 1.25rem; line-height: normal;"><a style="color: blue;" href={`books/${book.slug}`}>{book.title}</a></h2>
+                <h2 style="font-family: 'DM Serif Display', serif; font-size: 1.25rem; line-height: normal;"><a style="color: black;" href={`books/${book.slug}`}>{book.title}</a></h2>
                 <p>{book.author}</p>
             </div>
         </div>

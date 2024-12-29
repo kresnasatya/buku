@@ -38,7 +38,10 @@
 </div>
 
 <h2>Review</h2>
-{@html book.reviewHtml}
+
+<article>
+    {@html book.reviewHtml}
+</article>
 
 <div class="prev-next">
     {#if prevBook}
@@ -71,6 +74,16 @@
         height: 360px;
         max-height: 360px;
         object-fit: cover;
+    }
+
+    h1, h2 {
+        font-family: 'DM Serif Display', serif;
+    }
+
+    article :global {
+        h3, p {
+            font-size: 1.25rem;
+        }
     }
 
     .prev-next {
