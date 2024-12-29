@@ -81,8 +81,12 @@
     }
 
     article :global {
-        h3, p {
+        h3, p, ol, ul {
             font-size: 1.25rem;
+        }
+
+        blockquote {
+            color: gray;
         }
     }
 
